@@ -1,7 +1,12 @@
- <h1 align="center">Hi there, I'm Marina</a> 
+ <h1 align="center">Привет, будем знакомы - я Марина</a> 
  <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
- <h3 align="center">I am a novice frontend developer and a big yoga fan.</h3>
+ <h3 align="center">Тяжела ты, жизнь студента,
+                    Так нелёгок долгий путь
+                    От простого абитуриента
+                    До профессора наук...</h3>
 
+
+<!-- Источник: https://poembook.ru/poem/966156 -->
 <!--
 **gutmalina/gutmalina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
