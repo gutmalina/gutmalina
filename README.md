@@ -1,6 +1,6 @@
- <h1 align="center">Hi, let's get acquainted, I'm Marina</a> 
+ <h1 align="center">Hi, let's get acquainted</a> 
  <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="30"/></h1>
- <h3 align="center" font-style="oblique" margin=0 padding=0>Novice frontend developer</h3>
+ <h3 align="center" font-style="oblique" margin=0 padding=0>I am Marina, a novice frontend developer. Currently a Yandex student.Practice.</h3>
                     
                 
 
