@@ -1,6 +1,6 @@
  <h1 align="center">Привет, будем знакомы - я Марина</a> 
  <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="30"/></h1>
- <h3 align="center">Тяжела ты, жизнь студента, Так нелёгок долгий путь.</h3>
+ <h3 align="center" font-style="italic">Тяжела ты, жизнь студента, Так нелёгок долгий путь.</h3>
  <h3 align="center">От простого абитуриента, До профессора наук..</h3>
                     
                 
