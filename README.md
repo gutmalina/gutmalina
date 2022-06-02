@@ -23,14 +23,10 @@ Here are some ideas to get you started:
 <!-- на статистику подровная версия -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gutmalina)](https://github.com/gutmalina/github-readme-stats)
 
-<!-- Большой (large):   -->
+<!-- на Codewars Большой (large):   -->
 [![codewars](https://www.codewars.com/users/gutmalina/badges/large)](https://www.codewars.com/users/gutmalina/badges/large)   
 
-<!-- Маленький (small):   -->
-[![codewars](https://www.codewars.com/users/gutmalina/badges/small)](https://www.codewars.com/users/gutmalina/badges/small) 
 
-<!-- Крошечный (micro):   -->
-[![codewars](https://www.codewars.com/users/gutmalina/badges/micro)](https://www.codewars.com/users/gutmalina/badges/micro)
 
 <!-- не используется -->
 
@@ -38,3 +34,9 @@ Here are some ideas to get you started:
 
 <!---ссылка на статистику Для компактной версии-->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gutmalina&layout=compact)](https://github.com/gutmalina/github-readme-stats) -->
+
+<!-- ссылка на Codewars Маленький (small):   -->
+<!-- [![codewars](https://www.codewars.com/users/gutmalina/badges/small)](https://www.codewars.com/users/gutmalina/badges/small)  -->
+
+<!-- ссылка на Codewars Крошечный (micro):   -->
+<!-- [![codewars](https://www.codewars.com/users/gutmalina/badges/micro)](https://www.codewars.com/users/gutmalina/badges/micro) -->
