@@ -2,14 +2,6 @@
  <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
  <h3 align="center">I am a novice frontend developer and a big yoga fan.</h3>
 
-<!-- ### Hi there 👋 -->
-
-<!---Для компактной версии-->
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gutmalina&layout=compact)](https://github.com/gutmalina/github-readme-stats) -->
-
-<!---Для подробной версии-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gutmalina)](https://github.com/gutmalina/github-readme-stats)
-
 <!--
 **gutmalina/gutmalina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -24,3 +16,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!-- Ссылки -->
+<!-- на репозиторий -->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gutmalina&repo=github-readme-stats)](https://github.com/gutmalina/github-readme-stats)
+
+<!-- на статистику подровная версия -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gutmalina)](https://github.com/gutmalina/github-readme-stats)
+
+<!-- не используется -->
+
+<!-- ### Hi there 👋 -->
+
+<!---ссылка на статистику Для компактной версии-->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gutmalina&layout=compact)](https://github.com/gutmalina/github-readme-stats) -->
