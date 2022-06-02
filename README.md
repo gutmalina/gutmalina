@@ -24,13 +24,13 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gutmalina)](https://github.com/gutmalina/github-readme-stats)
 
 <!-- Большой (large):   -->
-[![codewars](https://www.codewars.com/users/username/badges/large)](https://www.codewars.com/users/gutmalina/badges/large)   
+[![codewars](https://www.codewars.com/users/gutmalina/badges/large)](https://www.codewars.com/users/gutmalina/badges/large)   
 
 <!-- Маленький (small):   -->
-[![codewars](https://www.codewars.com/users/username/badges/small)](https://www.codewars.com/users/gutmalina/badges/small) 
+[![codewars](https://www.codewars.com/users/gutmalina/badges/small)](https://www.codewars.com/users/gutmalina/badges/small) 
 
 <!-- Крошечный (micro):   -->
-[![codewars](https://www.codewars.com/users/username/badges/micro)](https://www.codewars.com/users/gutmalina/badges/micro)
+[![codewars](https://www.codewars.com/users/gutmalina/badges/micro)](https://www.codewars.com/users/gutmalina/badges/micro)
 
 <!-- не используется -->
 
