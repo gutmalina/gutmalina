@@ -1,6 +1,6 @@
- <h1 align="center">Hi, let's get acquainted</a> 
+ <h1 align="center">Hi, let's get acquainted - I am Marina</a> 
  <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="26"/></h1>
- <h3 align="center">I am Marina, a novice frontend developer. Currently a Yandex student.Practice.</h3>
+ <h3 align="center">And I am a novice frontend developer</h3>
  
  - 🔭 I’m currently working on ...
                     
