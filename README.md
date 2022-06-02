@@ -1,10 +1,9 @@
  <h1 align="center">Привет, будем знакомы - я Марина</a> 
- <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
- <h3 align="center">Тяжела ты, жизнь студента,
-                    Так нелёгок долгий путь
-                    От простого абитуриента
-                    До профессора наук...</h3>
-
+ <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="30"/></h1>
+ <h3 align="center">Тяжела ты, жизнь студента, Так нелёгок долгий путь.</h3>
+ <h3 align="center">От простого абитуриента, До профессора наук..</h3>
+                    
+                
 
 <!-- Источник: https://poembook.ru/poem/966156 -->
 <!--
