@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 <!-- Ссылки -->
 <!-- на репозиторий -->
-[![Readme Card](https://github-russian-travel.vercel.app/api/pin/?username=gutmalina&repo=github-russian-travel)](https://github.com/gutmalina/russian-travel)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- на статистику подровная версия -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gutmalina)](https://github.com/gutmalina/github-readme-stats)
