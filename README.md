@@ -5,7 +5,7 @@
 <!-- ### Hi there 👋 -->
 
 <!---Для компактной версии-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gutmalina&layout=compact)](https://github.com/gutmalina/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gutmalina&layout=compact)](https://github.com/gutmalina/github-readme-stats) -->
 
 <!---Для подробной версии-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gutmalina)](https://github.com/gutmalina/github-readme-stats)
