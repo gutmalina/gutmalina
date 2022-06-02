@@ -1,6 +1,8 @@
  <h1 align="center">Hi, let's get acquainted</a> 
  <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="26"/></h1>
  <h3 align="center">I am Marina, a novice frontend developer. Currently a Yandex student.Practice.</h3>
+ 
+ - 🔭 I’m currently working on ...
                     
                 
 
