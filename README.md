@@ -1,6 +1,6 @@
- <h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Marina</a> 
+ <h1 align="center">Hi there, I'm Marina</a> 
  <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
- <h3 align="center" background="blue">I am a novice frontend developer and a big yoga fan.</h3>
+ <h3 align="center">I am a novice frontend developer and a big yoga fan.</h3>
 
 <!-- ### Hi there 👋 -->
 
