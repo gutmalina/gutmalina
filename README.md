@@ -1,26 +1,15 @@
  <h1 align="center">Hi, let's get acquainted - I am Marina</a> 
  <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="26"/></h1>
- <h3 align="center">And I am a novice frontend developer</h3>
+ <h3 align="center">And I am a novice frontend developer, a student Yandex.Practicum</h3>
  
- - 🔭 I’m currently working on ...
+ - 🌱 В настоящее время учусь на курсе Яндекс.Практика
+ - 👯 Хочу приступить к реализации "живых" проeктов 
+ - ⚡ а здесь проекты, которые были выполнены в ходе моего обучения
+ - 💬 Посмотреть мое резюме можно здесь
+ - 😄 в свободное от учебы время, я увлекаюсь йогой, люблю свою собаку и творчество
                     
                 
 
-<!-- Источник: https://poembook.ru/poem/966156 -->
-<!--
-**gutmalina/gutmalina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <!-- Ссылки -->
 <!-- на репозиторий -->
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gutmalina&repo=russian-travel)](https://github.com/gutmalina/russian-travel)
