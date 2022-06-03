@@ -1,6 +1,6 @@
  <h1 align="center">Hi, let's get acquainted - I am Marina</a> 
  <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="26"/></h1>
- <h3 align="center">And I am a novice frontend developer, a student Yandex.Practicum</h3>
+ <h3 align="center">And I am a novice frontend developer</h3>
  
  
  - 🌱 В настоящее время учусь на курсе Яндекс.Практика
