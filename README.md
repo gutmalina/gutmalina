@@ -14,6 +14,8 @@
  - :dancer: В свободное время живу, люблю и дарю йогу, гуляю со своей собакой и творю руками красоту
  
  
+ <h3 align="center">Языки и инструменты:</h3>
+ 
  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
  NodeJS	![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
