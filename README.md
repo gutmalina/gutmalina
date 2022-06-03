@@ -16,6 +16,9 @@
  
  <h3 align="center">Языки и инструменты:</h3>
  
+ <img src="https://yandex.ru/search/?text=HTML5&lr=213&clid=2271258&win=522&noreask=1&ento=0oCgpydXcxNTU2NDgyEg5ydXcyMTE5Njphc3NvYxgCpQ2usw&es_context=0oYlsQHhpQMTY1NDI3ODYxMzcwODgwOS05NjAzODczNDkyODY3NzE2NTU1LXNhczMtMDY0MS03ZjItc2FzLWw3LWJhbGFuY2VyLTgwODAtQkFMLTIxMTEyBWFzc29jISRd_A"/>
+ 
+ 
  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
  NodeJS	![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
