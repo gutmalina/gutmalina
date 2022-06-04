@@ -33,6 +33,7 @@
  
  ### :pushpin: Мои проекты: 
 <a href="https://github.com/gutmalina/how-to-learn"><img src="./image/how to learn (1).png" height="60"/></a>
+
 <a href="https://github.com/gutmalina/russian-travel"><img src="./image/russian travel (1).png" height="60"/></a>
 <a href="https://github.com/gutmalina/mesto"><img src="./image/mesto (1).png" height="60"/></a>
 <a href="https://github.com/gutmalina/mesto-react"><img src="./image/mesto react (1).png" height="60"/></a>
