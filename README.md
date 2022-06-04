@@ -15,9 +15,7 @@
  
   <h4 align="center">~~~~~~~~~~</h4>
  
-
-### :hammer: Языки и инструменты:
-<p margin=0 padding=0><img src="./image/file_type_css_icon_130661.svg" height="50"> 
+### :hammer: Языки и инструменты: <p><img src="./image/file_type_css_icon_130661.svg" height="50"> 
 <img src="./image/file_type_html_icon_130541.svg" height="50"> 
 <img src="./image/file_type_js_official_icon_130509.svg" height="48"> 
 <img src="./image/react_original_wordmark_logo_icon_146375.svg" height="48"> 
