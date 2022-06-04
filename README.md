@@ -18,13 +18,28 @@
 ### :hammer: Языки и инструменты: 
 <p><img src="./image/file_type_css_icon_130661.svg" height="50"> 
 <img src="./image/file_type_html_icon_130541.svg" height="50"> 
-<img src="./image/file_type_js_official_icon_130509.svg" height="48"> 
-<img src="./image/react_original_logo_icon_146374.svg" height="48"> 
-<img src="./image/file_type_vscode_icon_130084.svg" height="48"> 
-<img src="./image/webpack_original_logo_icon_146300.svg" height="80"> 
-<img src="./image/figma_logo_icon_170157.svg" height="44"></p>
+<img src="./image/file_type_js_official_icon_130509.svg" height="50"> 
+<img src="./image/react_original_logo_icon_146374.svg" height="50"> 
+<img src="./image/file_type_vscode_icon_130084.svg" height="50"> 
+<img src="./image/webpack_original_logo_icon_146300.svg" height="50"> 
+<img src="./image/figma_logo_icon_170157.svg" height="46"></p>
 
+### :bar_chart: Статистика: 
  
+Карточка профиля: 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daniilshat&theme=solarized_dark)
+
+Статистика языков в коммитах:
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=daniilshat&theme=solarized_dark)
+
+Статистика языков в репозиториях:
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=daniilshat&theme=solarized_dark)
+
+Статистика профиля:
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=daniilshat&theme=solarized_dark)
+
+Данные по коммитам за сутки:
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=daniilshat&theme=solarized_dark)
  
  
  :pushpin:
@@ -38,7 +53,7 @@
 <!-- на репозиторий -->
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gutmalina&repo=russian-travel)](https://github.com/gutmalina/russian-travel)
 
- :bar_chart:
+ 
 <!-- на статистику подровная версия -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gutmalina)](https://github.com/gutmalina/github-readme-stats)
 
