@@ -25,8 +25,8 @@
 <img src="./image/webpack_original_logo_icon_146300.svg" height="48"/> 
 <img src="./image/figma_logo_icon_170157.svg" height="46"/></p>
 
-### :bar_chart: Статистика: 
 
+### :bar_chart: Статистика: 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gutmalina&theme=github_dark) 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gutmalina&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gutmalina&theme=github_dark)
