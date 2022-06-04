@@ -16,7 +16,7 @@
 <h4 align="center">~~~~~~~~~~</h4>
  
 ### :hammer: Языки и инструменты: 
-<p><img src="./image/file_type_css_icon_130661.svg" height="50"> 
+<p padding="0"><img src="./image/file_type_css_icon_130661.svg" height="50"> 
 <img src="./image/file_type_html_icon_130541.svg" height="50"> 
 <img src="./image/file_type_js_official_icon_130509.svg" height="50"> 
 <img src="./image/react_original_logo_icon_146374.svg" height="50"> 
@@ -31,15 +31,18 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gutmalina&theme=github_dark)
  
  ### :pushpin: Мои проекты: 
+<a href="https://github.com/gutmalina/russian-travel.git"><img src="./image/Russian%20Travel%20(1).png" heaght="50"/></a>
+
+
  <!-- Ссылки -->
 <!-- на репозиторий -->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gutmalina&repo=russian-travel)](https://github.com/gutmalina/russian-travel)
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gutmalina&repo=russian-travel)](https://github.com/gutmalina/russian-travel) -->
  
  <!-- на статистику подровная версия -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gutmalina)](https://github.com/gutmalina/github-readme-stats) -->
           
-[![](./image/Russian%20Travel%20(1).png)](https://github.com/gutmalina/russian-travel.git)
-<a href="https://github.com/gutmalina/russian-travel.git"><img src="./image/Russian%20Travel%20(1).png"/></a>
+
+
  
 
 
