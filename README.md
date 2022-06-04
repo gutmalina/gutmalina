@@ -17,14 +17,13 @@
  
 
 ### :hammer: Языки и инструменты:
-![Alt-текст]("https://github.com/gutmalina/gutmalina/blob/master/image/figma_logo_icon_170157.svg")
-<h5><img src="./image/file_type_css_icon_130661.svg" height="50"> 
+<p><img src="./image/file_type_css_icon_130661.svg" height="50"> 
 <img src="./image/file_type_html_icon_130541.svg" height="50"> 
 <img src="./image/file_type_js_official_icon_130509.svg" height="48"> 
 <img src="./image/react_original_wordmark_logo_icon_146375.svg" height="48"> 
 <img src="./image/file_type_vscode_icon_130084.svg" height="48"> 
 <img src="./image/webpack_original_wordmark_logo_icon_146301.svg" height="80"> 
-<img src="./image/figma_logo_icon_170157.svg" height="44"></h5
+<img src="./image/figma_logo_icon_170157.svg" height="44"></p>
 
  
  
