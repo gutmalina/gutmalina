@@ -21,7 +21,7 @@
 <img src="./image/file_type_js_official_icon_130509.svg" height="50"> 
 <img src="./image/react_original_logo_icon_146374.svg" height="50"> 
 <img src="./image/file_type_vscode_icon_130084.svg" height="50"> 
-<img src="./image/webpack_original_logo_icon_146300.svg" height="50"> 
+<img src="./image/webpack_original_logo_icon_146300.svg" height="48"> 
 <img src="./image/figma_logo_icon_170157.svg" height="46"></p>
 
 ### :bar_chart: Статистика: 
