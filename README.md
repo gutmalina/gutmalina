@@ -1,7 +1,7 @@
 <h2 align="center">Привет, будем знакомиться - я Марина</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="26"/></h2>
-<h3 padding="0" align="center">И я начинающий  frontend developer</h3>
-<h4 padding="0" align="center">~~~~~~~~~~</h4>
+<h3 margin="0" align="center">И я начинающий  frontend developer</h3>
+<h4 margin="0" align="center">~~~~~~~~~~</h4>
  
  - :mortar_board: В настоящее время учусь на курсе Яндекс.Практика
  - :mag_right:  Изучаю CSS, HTML, JavaScript, React. Знакомлюсь с Figma, GIT, GitHub, Webpack
@@ -32,7 +32,11 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gutmalina&theme=github_dark)
  
  ### :pushpin: Мои проекты: 
-<a href="https://github.com/gutmalina/russian-travel.git"><img src="./image/Russian%20Travel%20(1).png" height="50"/></a>
+<a href="https://github.com/gutmalina/how-to-learn"><img src="./image/how to lear (1).png" height="100"/></a>
+<a href="https://github.com/gutmalina/russian-travel"><img src="./image/Russian%20Travel%20(1).png" height="100"/></a>
+<a href="https://github.com/gutmalina/mesto"><img src="./image/mesto (1).png" height="100"/></a>
+<a href="https://github.com/gutmalina/mesto-react"><img src="./image/mesto react (1).png" height="100"/></a>
+<a href="https://github.com/gutmalina/react-mesto-auth"><img src="./image/React mesto auth (1).png" height="100"/></a>
 
 
  <!-- Ссылки -->
