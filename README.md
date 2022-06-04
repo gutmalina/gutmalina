@@ -15,7 +15,8 @@
  
   <h4 align="center">~~~~~~~~~~</h4>
  
-<h3 margin=0> :hammer: Языки и инструменты:</h3>
+<!-- <h3> :hammer: Языки и инструменты:</h3> -->
+### :hammer: Языки и инструменты:
 <h3><img src="./image/file_type_css_icon_130661.svg" height="50"> 
 <img src="./image/file_type_html_icon_130541.svg" height="50"> 
 <img src="./image/file_type_js_official_icon_130509.svg" height="48"> 
