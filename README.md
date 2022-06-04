@@ -16,8 +16,8 @@
  
   <h4 align="center">~~~~~~~~~~</h4>
  
-<h3 align="center">Языки и инструменты:</h3>
-<h3 align="center">
+<h3>Языки и инструменты:</h3>
+<h3>
 <img src="./image/file_type_css_icon_130661.svg" height="60">
 <img src="./image/file_type_html_icon_130541.svg" height="60">
 <img src="./image/file_type_js_official_icon_130509.svg" height="60">
@@ -27,6 +27,9 @@
 <img src="./image/figma_logo_icon_170157.svg" height="56"></h3
 
  
+ :mortar_board:
+ :bar_chart:
+ :pushpin:
 
                     
                 
