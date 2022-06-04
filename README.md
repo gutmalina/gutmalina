@@ -1,7 +1,7 @@
 <h2 align="center">Привет, будем знакомиться - я Марина</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="26"/></h2>
-<h3 align="center">И я начинающий  frontend developer</h3>
-<h4 align="center">~~~~~~~~~~</h4>
+<h3 padding="0" align="center">И я начинающий  frontend developer</h3>
+<h4 padding="0" align="center">~~~~~~~~~~</h4>
  
  - :mortar_board: В настоящее время учусь на курсе Яндекс.Практика
  - :mag_right:  Изучаю CSS, HTML, JavaScript, React. Знакомлюсь с Figma, GIT, GitHub, Webpack
@@ -13,8 +13,9 @@
  - :point_right: Мое резюме
  - :dancer: В свободное время живу, люблю и дарю йогу, гуляю со своей собакой и творю руками красоту
  
-<h4 align="center">~~~~~~~~~~</h4>
+<h4 padding="0" align="center">~~~~~~~~~~</h4>
  
+
 ### :hammer: Языки и инструменты: 
 <p padding="0"><img src="./image/file_type_css_icon_130661.svg" height="50"> 
 <img src="./image/file_type_html_icon_130541.svg" height="50"> 
@@ -31,7 +32,7 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gutmalina&theme=github_dark)
  
  ### :pushpin: Мои проекты: 
-<a href="https://github.com/gutmalina/russian-travel.git"><img src="./image/Russian%20Travel%20(1).png" heaght="50"/></a>
+<a href="https://github.com/gutmalina/russian-travel.git"><img src="./image/Russian%20Travel%20(1).png" height="50"/></a>
 
 
  <!-- Ссылки -->
