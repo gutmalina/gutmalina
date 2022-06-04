@@ -1,6 +1,6 @@
- *<h1 align="center">Привет, давайте познакомимся - я Марина</a> 
+ <h1 align="center">Привет, давайте познакомимся - я Марина</a> 
  <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="26"/></h1>
- <h3 align="center">И я начинающий  frontend developer</h3>*
+ <h3 align="center">И я начинающий  frontend developer</h3>
  
  
  
