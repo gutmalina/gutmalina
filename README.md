@@ -25,20 +25,23 @@
 <img src="./image/webpack_original_logo_icon_146300.svg" height="48"/> 
 <img src="./image/figma_logo_icon_170157.svg" height="46"/></p>
 
+<p padding="0" align="center">~~~~~~~~~~</p>
 
 ### :bar_chart: Статистика: 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gutmalina&theme=github_dark) 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gutmalina&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gutmalina&theme=github_dark)
- 
- ### :pushpin: Мои проекты: 
+
+<p padding="0" align="center">~~~~~~~~~~</p>
+
+ ### :pushpin: Проекты на курсе Яндекс.Практика: 
 <a href="https://github.com/gutmalina/how-to-learn"><img src="./image/how to learn (1).png" height="75"/></a>
 <a href="https://github.com/gutmalina/russian-travel"><img src="./image/russian-travel.png" height="85"/></a>
 <a href="https://github.com/gutmalina/mesto"><img src="./image/mesto (1).png" height="75"/></a>
 <a href="https://github.com/gutmalina/mesto-react"><img src="./image/mesto react (1).png" height="75"/></a>
 <a href="https://github.com/gutmalina/react-mesto-auth"><img src="./image/react-mesto-auth.png" height="85"/></a>
 
-
+<p padding="0" align="center">~~~~~~~~~~</p>
  <!-- Ссылки -->
 <!-- на репозиторий -->
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gutmalina&repo=russian-travel)](https://github.com/gutmalina/russian-travel) -->
