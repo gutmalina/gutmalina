@@ -26,7 +26,7 @@
 
 ### :bar_chart: Статистика: 
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gutmalina&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gutmalina&theme=github_dark)  
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gutmalina&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gutmalina&theme=github_dark)
  
@@ -40,7 +40,7 @@
 
 <!-- Ссылки -->
 <!-- на репозиторий -->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gutmalina&repo=russian-travel)](https://github.com/gutmalina/russian-travel)
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gutmalina&repo=russian-travel)](https://github.com/gutmalina/russian-travel) -->
 
  
 <!-- на статистику подровная версия -->
