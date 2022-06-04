@@ -31,13 +31,15 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gutmalina&theme=github_dark)
  
  ### :pushpin: Мои проекты: 
+ <!-- Ссылки -->
+<!-- на репозиторий -->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gutmalina&repo=russian-travel)](https://github.com/gutmalina/russian-travel)
+ 
  <!-- на статистику подровная версия -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gutmalina)](https://github.com/gutmalina/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gutmalina)](https://github.com/gutmalina/github-readme-stats) -->
           
 
-<!-- Ссылки -->
-<!-- на репозиторий -->
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gutmalina&repo=russian-travel)](https://github.com/gutmalina/russian-travel) -->
+
 
  
 
