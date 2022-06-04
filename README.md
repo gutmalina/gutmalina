@@ -20,10 +20,10 @@
 <img src="./image/file_type_css_icon_130661.svg" height="60">
 <img src="./image/file_type_html_icon_130541.svg" height="60">
 <img src="./image/file_type_js_official_icon_130509.svg" height="60">
-<img src="./image/react_original_wordmark_logo_icon_146375.svg" height="60">
-<img src="./image/file_type_vscode_icon_130084.svg" height="60">
-<img src="./image/webpack_original_wordmark_logo_icon_146301.svg" height="60">
-<img src="./image/figma_logo_icon_170157.svg" height="50"></h3
+<img src="./image/react_original_wordmark_logo_icon_146375.svg" height="58">
+<img src="./image/file_type_vscode_icon_130084.svg" height="58">
+<img src="./image/webpack_original_wordmark_logo_icon_146301.svg" height="70">
+<img src="./image/figma_logo_icon_170157.svg" height="52"></h3
 
  
 
