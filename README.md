@@ -1,6 +1,7 @@
- <h1 align="center">Hi, let's get acquainted - I am Marina</a> 
+ <h1 align="center">*Привет, давайте познакомимся - я Марина*</a> 
  <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="26"/></h1>
- <h3 align="center">And I am a novice frontend developer</h3>
+ <h3 align="center">И я начинающий  frontend developer</h3>
+ 
  
  
  - :sunglasses: В настоящее время учусь на курсе Яндекс.Практика
@@ -12,6 +13,7 @@
  - :muscle:  А пока повторяю, перечитываю, решаю задачки
  - :point_right: Мое резюме
  - :dancer: В свободное время живу, люблю и дарю йогу, гуляю со своей собакой и творю руками красоту
+ 
  
  
  <h3 align="center">Языки и инструменты:</h3>
