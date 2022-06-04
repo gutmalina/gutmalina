@@ -5,7 +5,7 @@
  
  
  - :mortar_board: В настоящее время учусь на курсе Яндекс.Практика
- - :bar_chart:  Изучаю CSS, HTML, JavaScript, React. Знакомлюсь с Figma, GIT, GitHub, Webpack
+ - :mag_right:  Изучаю CSS, HTML, JavaScript, React. Знакомлюсь с Figma, GIT, GitHub, Webpack
  - :hammer: Создаю учебные проекты, применяя БЭМ, ООП, адаптив, API
  - :eyes: Все проекты проходят ревью
  - :thumbsup:  Уже не терпится поработать в команде над реальным, "живым" проектом
@@ -30,7 +30,7 @@
  
  
  :pushpin:
- :mag_right:
+ 
  :memo:
 
                     
@@ -40,6 +40,7 @@
 <!-- на репозиторий -->
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gutmalina&repo=russian-travel)](https://github.com/gutmalina/russian-travel)
 
+ :bar_chart:
 <!-- на статистику подровная версия -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gutmalina)](https://github.com/gutmalina/github-readme-stats)
 
