@@ -14,10 +14,9 @@
  - :point_right: Мое резюме
  - :dancer: В свободное время живу, люблю и дарю йогу, гуляю со своей собакой и творю руками красоту
  
+  <h4 align="center">~~~~~~~~~~</h4>
  
- 
- <h3 align="center">Языки и инструменты:</h3>
- 
+<h3 align="center">Языки и инструменты:</h3>
 <h3 align="center">
 <img src="./image/file_type_css_icon_130661.svg" height="60">
 <img src="./image/file_type_html_icon_130541.svg" height="60">
