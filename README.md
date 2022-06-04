@@ -1,7 +1,7 @@
- <h2 align="center">Привет, будем знакомиться - я Марина</a> 
- <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="26"/></h2>
- <h3 align="center">И я начинающий  frontend developer</h3>
- <h4 align="center">~~~~~~~~~~</h4>
+<h2 align="center">Привет, будем знакомиться - я Марина</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="26"/></h2>
+<h3 align="center">И я начинающий  frontend developer</h3>
+<h4 align="center">~~~~~~~~~~</h4>
  
  - :mortar_board: В настоящее время учусь на курсе Яндекс.Практика
  - :mag_right:  Изучаю CSS, HTML, JavaScript, React. Знакомлюсь с Figma, GIT, GitHub, Webpack
@@ -13,15 +13,15 @@
  - :point_right: Мое резюме
  - :dancer: В свободное время живу, люблю и дарю йогу, гуляю со своей собакой и творю руками красоту
  
-  <h4 align="center">~~~~~~~~~~</h4>
+<h4 align="center">~~~~~~~~~~</h4>
  
 ### :hammer: Языки и инструменты: 
 <p><img src="./image/file_type_css_icon_130661.svg" height="50"> 
 <img src="./image/file_type_html_icon_130541.svg" height="50"> 
 <img src="./image/file_type_js_official_icon_130509.svg" height="48"> 
-<img src="./image/react_original_wordmark_logo_icon_146375.svg" height="48"> 
+<img src="./image/react_original_logo_icon_146374.svg" height="48"> 
 <img src="./image/file_type_vscode_icon_130084.svg" height="48"> 
-<img src="./image/webpack_original_wordmark_logo_icon_146301.svg" height="80"> 
+<img src="./image/webpack_original_logo_icon_146300.svg" height="80"> 
 <img src="./image/figma_logo_icon_170157.svg" height="44"></p>
 
  
