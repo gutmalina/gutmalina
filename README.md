@@ -39,7 +39,7 @@
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gutmalina)](https://github.com/gutmalina/github-readme-stats) -->
           
 [![](./image/Russian%20Travel%20(1).png)](https://github.com/gutmalina/russian-travel.git)
-
+<a href="https://github.com/gutmalina/russian-travel.git"><img src="./image/Russian%20Travel%20(1).png"/></a>
  
 
 
