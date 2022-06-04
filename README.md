@@ -39,7 +39,7 @@
 <a href="https://github.com/gutmalina/mesto"><img src="./image/mesto (1).png" height="60"/></a>
 <a href="https://github.com/gutmalina/mesto-react"><img src="./image/mesto react (1).png" height="60"/></a>
 <a href="https://github.com/gutmalina/react-mesto-auth"><img src="./image/react mesto auth (1).png" height="60"/></a>
-
+<img src="./image/russian-travel.png"/>
 
  <!-- Ссылки -->
 <!-- на репозиторий -->
