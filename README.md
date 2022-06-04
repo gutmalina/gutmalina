@@ -17,6 +17,7 @@
  
 
 ### :hammer: Языки и инструменты:
+![Alt-текст]("./image/file_type_css_icon_130661.svg")
 <h5><img src="./image/file_type_css_icon_130661.svg" height="50"> 
 <img src="./image/file_type_html_icon_130541.svg" height="50"> 
 <img src="./image/file_type_js_official_icon_130509.svg" height="48"> 
