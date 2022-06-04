@@ -16,7 +16,7 @@
  
  <h3 align="center">Языки и инструменты:</h3>
  
-<img src="./image/file_type_css_icon_130661.svg" height="72">
+<img src="./image/file_type_css_icon_130661.svg" height="68">
 <img src="./image/file_type_html_icon_130541.svg">
 <img src="./image/file_type_js_official_icon_130509.svg">
 <img src="./image/react_original_wordmark_logo_icon_146375.svg">
