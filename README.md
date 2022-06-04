@@ -4,8 +4,8 @@
  <h4 align="center">~~~~~~~~~~</h4>
  
  
- - :sunglasses: В настоящее время учусь на курсе Яндекс.Практика
- - :memo:  Изучаю CSS, HTML, JavaScript, React. Знакомлюсь с Figma, GIT, GitHub, Webpack
+ - :mortar_board: В настоящее время учусь на курсе Яндекс.Практика
+ - :bar_chart:  Изучаю CSS, HTML, JavaScript, React. Знакомлюсь с Figma, GIT, GitHub, Webpack
  - :hammer: Создаю учебные проекты, применяя БЭМ, ООП, адаптив, API
  - :eyes: Все проекты проходят ревью
  - :thumbsup:  Уже не терпится поработать в команде над реальным, "живым" проектом
@@ -27,9 +27,11 @@
 <img src="./image/figma_logo_icon_170157.svg" height="56"></h3
 
  
- :mortar_board:
- :bar_chart:
+ 
+ 
  :pushpin:
+ :mag_right:
+ :memo:
 
                     
                 
