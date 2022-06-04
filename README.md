@@ -10,7 +10,7 @@
  - :thumbsup:  Уже не терпится поработать в команде над реальным, "живым" проектом
  - :sparkles: Уверена, со временем научусь писать лаконичный и чистый код
  - :muscle:  А пока повторяю, перечитываю, решаю задачки [![codewars](https://www.codewars.com/users/gutmalina/badges/micro)](https://www.codewars.com/users/gutmalina/badges/micro) 
- - :point_right: Мое резюме
+ - :point_right: Мое [резюме](https://hh.ru/resume/048cbf53ff0aeb96920039ed1f463436654b46)
  - :dancer: В свободное время живу, люблю и дарю йогу, гуляю со своей собакой и творю руками красоту
  
 <p padding="0" align="center">~~~~~~~~~~</p>
