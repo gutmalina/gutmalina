@@ -38,7 +38,7 @@
  <!-- на статистику подровная версия -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gutmalina)](https://github.com/gutmalina/github-readme-stats) -->
           
-[![](./image/Russian%20Travel.png)](https://github.com/gutmalina/russian-travel.git)
+[![](./image/Russian-travel.svg)](https://github.com/gutmalina/russian-travel.git)
 
  
 
