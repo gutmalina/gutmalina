@@ -16,7 +16,14 @@
  
  <h3 align="center">Языки и инструменты:</h3>
  
-<img src="./image/css3.svg">
+<img src="./image/file_type_css_icon_130661.svg">
+<img src="./image/file_type_html_icon_130541.svg">
+<img src="./image/file_type_js_official_icon_130509.svg">
+<img src="./image/react_original_wordmark_logo_icon_146375.svg">
+<img src="./image/file_type_vscode_icon_130084.svg">
+<img src="./image/webpack_original_wordmark_logo_icon_146301.svg">
+<img src="./image/figma_logo_icon_170157.svg">
+
  
  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
  NodeJS	![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
