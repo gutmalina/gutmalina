@@ -11,7 +11,7 @@
  - :grey_question: Хочу глубже вникнуть в работу React
  - :sparkles: Уверена, со временем научусь писать лаконичный и чистый код
  - :muscle:  А пока повторяю, перечитываю, решаю задачки [![codewars](https://www.codewars.com/users/gutmalina/badges/micro)](https://www.codewars.com/users/gutmalina/badges/micro) 
- - :point_right: Мое [резюме](https://hh.ru/resume/048cbf53ff0aeb96920039ed1f463436654b46)
+ - :point_right: Мое [резюме](https://github.com/gutmalina/gutmalina/blob/master/image/Гуткевич%20Марина%20Ивановна%20(5).pdf)
  - :dancer: В свободное время живу, люблю и дарю йогу, гуляю со своей собакой и творю руками красоту
  
 <p padding="0" align="center">~~~~~~~~~~</p>
