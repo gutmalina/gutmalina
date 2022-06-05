@@ -8,6 +8,7 @@
  - :memo: Создаю учебные проекты, применяя БЭМ, ООП, адаптив, API
  - :eyes: Все проекты проходят ревью
  - :thumbsup:  Уже не терпится поработать в команде над реальным, "живым" проектом
+ - :grey_question: Хочу глубже вникнуть в работу React
  - :sparkles: Уверена, со временем научусь писать лаконичный и чистый код
  - :muscle:  А пока повторяю, перечитываю, решаю задачки [![codewars](https://www.codewars.com/users/gutmalina/badges/micro)](https://www.codewars.com/users/gutmalina/badges/micro) 
  - :point_right: Мое [резюме](https://hh.ru/resume/048cbf53ff0aeb96920039ed1f463436654b46)
@@ -44,42 +45,3 @@
 <a href="https://github.com/gutmalina/how-to-learn"><img src="./image/how-to-learn.png" height="75"/></a>
 
 <p padding="0" align="center">~~~~~~~~~~</p>
-
- <!-- Ссылки -->
-<!-- на репозиторий -->
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gutmalina&repo=russian-travel)](https://github.com/gutmalina/russian-travel) -->
- 
- <!-- на статистику подровная версия -->
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gutmalina)](https://github.com/gutmalina/github-readme-stats) -->
-          
-
-
- 
-
-
-<!-- на Codewars Большой (large):   -->
-<!-- [![codewars](https://www.codewars.com/users/gutmalina/badges/large)](https://www.codewars.com/users/gutmalina/badges/large)    -->
-
-
-
-<!-- не используется -->
-
-<!-- ### Hi there 👋 -->
-
-<!---ссылка на статистику Для компактной версии-->
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gutmalina&layout=compact)](https://github.com/gutmalina/github-readme-stats) -->
-
-<!-- ссылка на Codewars Маленький (small):   -->
-<!-- [![codewars](https://www.codewars.com/users/gutmalina/badges/small)](https://www.codewars.com/users/gutmalina/badges/small)  -->
-
-<!-- ссылка на Codewars Крошечный (micro):   -->
-<!-- [![codewars](https://www.codewars.com/users/gutmalina/badges/micro)](https://www.codewars.com/users/gutmalina/badges/micro) -->
-
-<!-- Бэйджики на языки и инструменты -->
-<!--  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
- NodeJS	![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
- ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
- ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
- 	![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) -->
