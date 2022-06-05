@@ -10,7 +10,7 @@
  - :thumbsup:  Уже не терпится поработать в команде над реальным, "живым" проектом
  - :grey_question: Хочу глубже вникнуть в работу React
  - :sparkles: Уверена, со временем научусь писать лаконичный и чистый код
- - :muscle:  А пока повторяю, перечитываю, решаю задачки [![codewars](https://www.codewars.com/users/gutmalina/badges/micro)](https://www.codewars.com/users/gutmalina/badges/micro) 
+ - :muscle:  А пока повторяю, перечитываю, решаю [задачки](https://www.codewars.com/users/gutmalina) [![codewars](https://www.codewars.com/users/gutmalina/badges/micro)](https://www.codewars.com/users/gutmalina/badges/micro) 
  - :point_right: Мое [резюме](https://github.com/gutmalina/gutmalina/blob/master/image/Гуткевич%20Марина%20Ивановна%20(5).pdf)
  - :dancer: В свободное время живу, люблю и дарю йогу, гуляю со своей собакой и творю руками красоту
  
