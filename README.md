@@ -1,18 +1,16 @@
 <h2 align="center">Привет, будем знакомиться - я Марина
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="26"/></h2>
-<h3 margin="0" align="center">И я начинающий  frontend developer</h3>
+<h3 margin="0" align="center">И я начинающий Frontend developer</h3>
 <p padding="0" align="center">~~~~~~~~~~</p>
  
- - :mortar_board: В настоящее время учусь на курсе Яндекс.Практика
- - :mag_right:  Изучаю CSS, HTML, JavaScript, React. Знакомлюсь с Figma, GIT, GitHub, Webpack
- - :memo: Создаю учебные проекты, применяя БЭМ, ООП, адаптив, API
- - :eyes: Все проекты проходят ревью
- - :thumbsup:  Уже не терпится поработать в команде над реальным, "живым" проектом
- - :grey_question: Хочу глубже вникнуть в работу React
+ - :mortar_board: Закончила обучение на курсе Яндекс.Практика по направлению Frontend developer
+ - :mag_right:  Во время учебы мы изучали CSS, HTML, JavaScript и базовые основы Backend разработки
+ - :memo: Знакомились с Figma, GIT, GitHub, Webpack, React, MongoDB, express.js, Node.js
+ - :eyes: Создавали проекты, применяя БЭМ, ООП, адаптив, API. Все проекты проходили ревью
+ - :muscle:  Сейчас активно занимаюсь поиском работы, перечитываю, повторяю полученные знания, самостоятельно верстаюб , решаю [задачки](https://www.codewars.com/users/gutmalina) [![codewars](https://www.codewars.com/users/gutmalina/badges/micro)](https://www.codewars.com/users/gutmalina/badges/micro)
  - :sparkles: Уверена, со временем научусь писать лаконичный и чистый код
- - :muscle:  А пока повторяю, перечитываю, решаю [задачки](https://www.codewars.com/users/gutmalina) [![codewars](https://www.codewars.com/users/gutmalina/badges/micro)](https://www.codewars.com/users/gutmalina/badges/micro) 
- - :point_right: Мое [резюме](https://github.com/gutmalina/gutmalina/blob/master/image/Гуткевич%20Марина%20Ивановна%20(5).pdf)
- - :dancer: В свободное время живу, люблю и дарю йогу, гуляю со своей собакой и творю руками красоту
+ - :point_right: Мое [резюме](https://github.com/gutmalina/gutmalina/blob/master/image/Гуткевич%20Марина%20Ивановна.pdf)
+ - :dancer: В свободное время живу, люблю и дарю [йогу](https://instagram.com/gutmalina), гуляю со своей собакой и творю руками [красоту](https://instagram.com/gutmalina.art)
  
 <p padding="0" align="center">~~~~~~~~~~</p>
  
@@ -25,6 +23,9 @@
 <img src="./image/file_type_vscode_icon_130084.svg" height="50"/> 
 <img src="./image/webpack_original_logo_icon_146300.svg" height="48"/> 
 <img src="./image/figma_logo_icon_170157.svg" height="46"/></p>
+<img src="./image/node_express.png" height="46"/></p>
+<img src="./image/express.png" height="46"/></p>
+<img src="./image/mongo.png" height="46"/></p>
 
 <p padding="0" align="center">~~~~~~~~~~</p>
 
