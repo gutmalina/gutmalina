@@ -7,7 +7,7 @@
  - :mag_right:  Во время учебы мы изучали CSS, HTML, JavaScript и базовые основы Backend разработки
  - :memo: Знакомились с Figma, GIT, GitHub, Webpack, React, MongoDB, express.js, Node.js
  - :eyes: Создавали проекты, применяя БЭМ, ООП, адаптив, API. Все проекты проходили ревью
- - :muscle:  Сейчас активно занимаюсь поиском работы, перечитываю, повторяю полученные знания, самостоятельно верстаюб , решаю [задачки](https://www.codewars.com/users/gutmalina) [![codewars](https://www.codewars.com/users/gutmalina/badges/micro)](https://www.codewars.com/users/gutmalina/badges/micro)
+ - :muscle:  Сейчас активно занимаюсь поиском работы, перечитываю, повторяю полученные знания, самостоятельно верстаю, решаю [задачки](https://www.codewars.com/users/gutmalina) [![codewars](https://www.codewars.com/users/gutmalina/badges/micro)](https://www.codewars.com/users/gutmalina/badges/micro)
  - :sparkles: Уверена, со временем научусь писать лаконичный и чистый код
  - :point_right: Мое [резюме](https://github.com/gutmalina/gutmalina/blob/master/image/Гуткевич%20Марина%20Ивановна.pdf)
  - :dancer: В свободное время живу, люблю и дарю [йогу](https://instagram.com/gutmalina), гуляю со своей собакой и творю руками [красоту](https://instagram.com/gutmalina.art)
@@ -22,10 +22,11 @@
 <img src="./image/react_original_logo_icon_146374.svg" height="50"/> 
 <img src="./image/file_type_vscode_icon_130084.svg" height="50"/> 
 <img src="./image/webpack_original_logo_icon_146300.svg" height="48"/> 
-<img src="./image/figma_logo_icon_170157.svg" height="46"/></p>
-<img src="./image/node_express.png" height="46"/></p>
-<img src="./image/express.png" height="46"/></p>
-<img src="./image/mongo.png" height="46"/></p>
+<img src="./image/figma_logo_icon_170157.svg" height="46"/>
+<img src="./image/mongodb_plain_wordmark_logo_icon_146423.svg" height="46"/>
+<img src="./image/Node-JS-01.svg" height="46"/>
+<img src="./image/express_original_wordmark_logo_icon_146528.svg" height="46"/></p>
+
 
 <p padding="0" align="center">~~~~~~~~~~</p>
 
