@@ -43,15 +43,15 @@
 <table>
   <thead align="center">
     <tr border: none;>
-      <td><b>📘 Project</b></td>
-      <td><b>⭐ Description</b></td>
-      <td><b>🤝 Stack</b></td>
+      <td><b> :books: Project</b></td>
+      <td><b> :memo: Description</b></td>
+      <td><b> 🔬 :microscope: Stack</b></td>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td><a href="https://gutmalina.github.io/Interno/"><b>Interno</b></a></td>
-      <td><b>Одностраничный сайт, посвященный дизайн-проектам интерьеров. Выполнен в статичной версии, для Decstop 1440px.</b></td>
+      <td><a href="https://gutmalina.github.io/Interno/"><b>Лендинг создания интерьеров - Одностраничный сайт, для Decstop 1440px.</b></a></td>
       <td><b>CSS, HTML</b></td>
     </tr>
     <!-- <tr>
