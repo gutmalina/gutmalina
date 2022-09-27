@@ -38,6 +38,9 @@
 <p padding="0" align="center">~~~~~~~~~~</p>
 
  ### :pushpin: Проекты на курсе Яндекс.Практика: 
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gutmalina&repo=Interno)](https://gutmalina.github.io/Interno/)
+
 <a href="https://github.com/gutmalina/react-mesto-auth"><img src="./image/react-mesto-auth.png" height="70"/></a>
 <a href="https://github.com/gutmalina/mesto-react"><img src="./image/mesto-react.png" height="75"/></a>
 
