@@ -37,7 +37,7 @@
 
 <p padding="0" align="center">~~~~~~~~~~</p>
 
-### :pushpin: Проекты: 
+<!-- ### :pushpin: Проекты: 
 
 <table>
   <thead align="center">
@@ -98,4 +98,4 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gutmalina&repo=how-to-learn)](https://github.com/gutmalina/how-to-learn.git)
 
 
-<p padding="0" align="center">~~~~~~~~~~</p>
+<p padding="0" align="center">~~~~~~~~~~</p> -->
