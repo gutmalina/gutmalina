@@ -39,6 +39,29 @@
 
  ### :pushpin: Проекты на курсе Яндекс.Практика: 
 
+
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>📘 Project</b></td>
+      <td><b>⭐ Description</b></td>
+      <td><b>🤝 Stack</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://gutmalina.github.io/Interno/"><b>Interno</b></a></td>
+      <td><b>Одностраничный сайт, посвященный дизайн-проектам интерьеров. Выполнен в статичной версии, для Decstop 1440px.</b></td>
+      <td><b>CSS, HTML</b></td>
+    </tr>
+    <!-- <tr>
+      <td><a href="https://github.com/madushadhanushka/differ"><b>Simple SQLite</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/madushadhanushka/simple-sqlite?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/madushadhanushka/simple-sqlite?style=flat-square&labelColor=343b41"/></td>
+    </tr> -->
+  </tbody>
+</table>
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gutmalina&repo=Interno)](https://gutmalina.github.io/Interno/)
 
 <a href="https://github.com/gutmalina/react-mesto-auth"><img src="./image/react-mesto-auth.png" height="70"/></a>
