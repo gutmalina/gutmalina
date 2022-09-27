@@ -10,7 +10,7 @@
  - :muscle:  Сейчас активно занимаюсь поиском работы, перечитываю, повторяю полученные знания, самостоятельно верстаю, решаю [задачки](https://www.codewars.com/users/gutmalina) [![codewars](https://www.codewars.com/users/gutmalina/badges/micro)](https://www.codewars.com/users/gutmalina/badges/micro)
  - :sparkles: Уверена, со временем научусь писать лаконичный и чистый код
  - :point_right: Мое [резюме](https://github.com/gutmalina/gutmalina/blob/master/image/Гуткевич%20Марина%20Ивановна.pdf)
- - :dancer: В свободное время живу, люблю и дарю [йогу](https://instagram.com/gutmalina), гуляю со своей собакой и творю руками [красоту](https://instagram.com/gutmalina.art)
+ - :dancer: В свободное время живу, люблю и дарю [йогу](https://instagram.com/gutmalina), гуляю со своей собакой и занимаюсь [рукотворчеством](https://instagram.com/gutmalina.art)
  
 <p padding="0" align="center">~~~~~~~~~~</p>
  
@@ -36,66 +36,3 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gutmalina&theme=github_dark)
 
 <p padding="0" align="center">~~~~~~~~~~</p>
-
-<!-- ### :pushpin: Проекты: 
-
-<table>
-  <thead align="center">
-    <tr border: none;>
-      <td><b> :books: Project</b></td>
-      <td><b> :memo: Description</b></td>
-      <td><b> :microscope: Stack</b></td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://gutmalina.github.io/Interno/"><b>Interno</b></a></td>
-      <td><a href="https://gutmalina.github.io/Interno/"><b>Лендинг создания интерьеров - одностраничный сайт, для Decstop 1440px</b></a></td>
-      <td><b>CSS, HTML</b></td>
-    </tr>
-  </tbody>
-</table>
-
-<p padding="0" align="center">~~~~~~~~~~</p>
-
-### :pushpin: Проекты на курсе Яндекс.Практика: 
-
-<table>
-  <thead align="center">
-    <tr border: none;>
-      <td><b> :books: Project (ссылка на код)</b></td>
-      <td><b> :memo: Description (ссылка на проект)</b></td>
-      <td><b> :microscope: Stack</b></td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/gutmalina/movies-explorer-frontend.git"><b>movies-explorer-frontend</b></a></td>
-      <td><a href="https://webdiploma.nomoredomains.xyz"><b>Дипломная работа - Многостраничное адаптивное приложение по поиску фильмов в сервисе MoviesExplorer и сохранению их в личном кабинете</b></a></td>
-      <td><b>CSS, HTML, JavaScript, React, MongoDB, Node.js, Express.js</b></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/gutmalina/react-mesto-auth.git"><b>react-mesto-auth</b></a></td>
-      <td><a href="https://gutmalina.github.io/mesto/index.html"><b>Интерактивная страница по размещению фотографий в личном кабинете, без авторизации</b></a></td>
-      <td><b>CSS, HTML, JavaScript, React</b></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/gutmalina/russian-travel.git"><b>russian-travel</b></a></td>
-      <td><a href="https://gutmalina.github.io/russian-travel/index.html"><b>Адаптивная страница о путешествии по России</b></a></td>
-      <td><b>CSS, HTML</b></td>
-    </tr>
-  </tbody>
-</table>
-
-<p padding="0" align="center">~~~~~~~~~~</p>
-
-### :pushpin: Остальные проекты: 
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gutmalina&repo=react-mesto-api-full)](https://github.com/gutmalina/react-mesto-api-full.git)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gutmalina&repo=express-mesto-gha)](https://github.com/gutmalina/express-mesto-gha.git)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gutmalina&repo=mesto-react)](https://github.com/gutmalina/mesto-react.git)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gutmalina&repo=mesto)](https://github.com/gutmalina/mesto.git)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gutmalina&repo=how-to-learn)](https://github.com/gutmalina/how-to-learn.git)
-
-
-<p padding="0" align="center">~~~~~~~~~~</p> -->
