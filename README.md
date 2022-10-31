@@ -9,7 +9,7 @@
  - :eyes: Создавали проекты, применяя БЭМ, ООП, адаптив, API. Все проекты проходили ревью
  - :muscle:  Сейчас активно занимаюсь поиском работы, перечитываю, повторяю полученные знания, самостоятельно верстаю, решаю [задачки](https://www.codewars.com/users/gutmalina) [![codewars](https://www.codewars.com/users/gutmalina/badges/micro)](https://www.codewars.com/users/gutmalina/badges/micro)
  - :sparkles: Уверена, со временем научусь писать лаконичный и чистый код
- - :point_right: Мое [резюме](https://github.com/gutmalina/gutmalina/blob/master/image/Гуткевич%20Марина%20Ивановна.pdf)
+ - :point_right: Мое резюме [на Linkedin](www.linkedin.com/in/gutmalina) или [в формате PDF](https://github.com/gutmalina/gutmalina/blob/master/image/Гуткевич%20Марина%20Ивановна.pdf)
  - :dancer: В свободное время живу, люблю и дарю [йогу](https://instagram.com/gutmalina), гуляю со своей собакой и занимаюсь [рукотворчеством](https://instagram.com/gutmalina.art)
  
 <p padding="0" align="center">~~~~~~~~~~</p>
