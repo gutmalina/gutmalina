@@ -12,12 +12,12 @@ function MarinaGutkevich ({frontend_developer, react_developer}) {
 
   useEffect(() => {
     return {
-        code: [Javascript, TypeScript],
-        frameworks: [React, Redux],
-        tools: [API, Websocket, Node.js, Express.js, MongoDB, Mongoose, Webpack, Eslint],
-        architecture: [ООП, БЭМ], 
-        layout: [HTML5, CSS3, adaptive, PixelPerfect, Figma],
-        team: [Git, GitHub]
+      code: [Javascript, TypeScript],
+      frameworks: [React, Redux],
+      tools: [API, Websocket, Node.js, Express.js, MongoDB, Mongoose, Webpack, Eslint],
+      architecture: [ООП, БЭМ], 
+      layout: [HTML5, CSS3, adaptive, PixelPerfect, Figma],
+      team: [Git, GitHub]
     }
   }, [education]);
 
