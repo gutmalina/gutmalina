@@ -4,6 +4,7 @@ import { useState, useEffect } from 'react';
 import { Link } from 'react-router-dom';
 
 function MarinaGutkevich ({frontend_developer, react_developer}) {
+    
   const [stack, setStack] = useState({});
   const name = 'Marina Gutkevich';
   const profession = [frontend_developer, react_developer]; 
