@@ -32,11 +32,9 @@ function MarinaGutkevich ({frontend_developer, react_developer}) {
 
 export default MarinaGutkevich;
 ```
-<p padding="0" align="center">~~~~~~~~~~</p>
 
 ## statistics: 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gutmalina&theme=github_dark) 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gutmalina&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gutmalina&theme=github_dark)
 
-<p padding="0" align="center">~~~~~~~~~~</p>
