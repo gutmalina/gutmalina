@@ -4,7 +4,7 @@ import { useState, useEffect } from 'react';
 import { Link } from 'react-router-dom';
 
 function MarinaGutkevich ({frontend_developer, react_developer}) {
-    
+
   const [stack, setStack] = useState({});
   const name = 'Marina Gutkevich';
   const profession = [frontend_developer, react_developer]; 
@@ -24,9 +24,11 @@ function MarinaGutkevich ({frontend_developer, react_developer}) {
 
   return (
     <body>
-      <header>{`HI, MY NAME IS ${name}. I AM ${profession}`}/>
-      <main><section>{`MY Stack: ${stack}`}/></main>
-      <footer><Link>{telegram}</Link>/>
+      <header>{`HI, MY NAME IS ${name}. I AM ${profession}`}</header>
+      <main>
+        <section>{`MY Stack: ${stack}`}</section>
+      </main>
+      <footer><Link>{telegram}</Link></footer>
     </body>
   )
 };
