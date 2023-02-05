@@ -1,4 +1,57 @@
-<h2 align="center">Привет, будем знакомиться - я Марина
+import { useEffect } from 'react';
+import { Link } from 'react-router-dom';
+
+function MarinaGutkevich ({frontend_developer, react_developer}) {
+  
+  const name = 'Marina Gutkevich';
+  const profession = [frontend_developer, react_developer]; 
+  const education = ('higher', 'yandex.practicum');
+
+  useEffect(() => {
+    return {
+        code: [Javascript, TypeScript],
+        frameworks: [React, Redux],
+        tools: [API, Websocket, Node.js, Express.js, MongoDB, Mongoose, Webpack, Eslint],
+        architecture: [ООП, БЭМ], 
+        layout: [HTML5, CSS3, adaptive, PixelPerfect, Figma],
+        team: [Git, GitHub]
+    }
+  }, [education]);
+
+  const contact = {
+    email: 'gutmalina@mail.ru',
+    telegram: '@gutmalina',
+    hh: 'https://hh.ru/applicant/resumes/view?resume=048cbf53ff0aeb96920039ed1f463436654b46',
+    linkedin: 'www.linkedin.com/in/gutmalina',
+    instagram: ['https://instagram.com/gutmalina', 'https://instagram.com/gutmalina.art']
+  }
+
+  return (
+    <body>
+        <header>
+          <h1 className="title">{`Hi, my name is ${name}. I am ${profession}`}</h1>
+        </header>
+        <main>
+          <section>{'you will find my works in the repository'}</section>
+        </main>
+        <footer>
+          <nav className="listContact">
+            <Link>{contact.email}</Link>
+            <Link>{contact.telegram}</Link>
+            <Link>{contact.hh}</Link>
+            <Link>{contact.linkedin}</Link>
+            <Link>{contact.instagram}</Link>
+          </nav>
+        </footer>
+
+    </body>
+  )
+
+};
+
+export default MarinaGutkevich;
+
+<!-- <h2 align="center">Привет, будем знакомиться - я Марина
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="26"/></h2>
 <h3 margin="0" align="center">И я Junior Frontend developer</h3>
 <p padding="0" align="center">~~~~~~~~~~</p>
@@ -25,7 +78,7 @@
 <img src="./image/figma_logo_icon_170157.svg" height="46"/>
 <img src="./image/mongodb_plain_wordmark_logo_icon_146423.svg" height="52"/>
 <img src="./image/Node-JS-01.svg" height="56"/>
-<img src="./image/folder_express_icon_161294.svg" height="50"/></p>
+<img src="./image/folder_express_icon_161294.svg" height="50"/></p> -->
 
 
 <p padding="0" align="center">~~~~~~~~~~</p>
