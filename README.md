@@ -23,9 +23,9 @@ function MarinaGutkevich ({frontend_developer, react_developer}) {
 
   return (
     <body>
-        <header>{`Hi, my name is ${name}. I am ${profession}`}/>
-        <main><section>{'you will find my works in the repository'}/></main>
-        <footer><Link>{telegram}</Link>/>
+      <header>{`HI, MY NAME IS ${name}. I AM ${profession}`}/>
+      <main><section>{'YOU WILL FIND MY WORKS IN THE REPOSITORY'}/></main>
+      <footer><Link>{telegram}</Link>/>
     </body>
   )
 };
