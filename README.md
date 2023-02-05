@@ -1,30 +1,30 @@
 ## aboutMe:
 ```js
-import { useEffect } from 'react';
+import { useState, useEffect } from 'react';
 import { Link } from 'react-router-dom';
 
 function MarinaGutkevich ({frontend_developer, react_developer}) {
-  
+  const [stack, setStack] = useState({});
   const name = 'Marina Gutkevich';
   const profession = [frontend_developer, react_developer]; 
   const education = ('higher', 'yandex.practicum');
   const telegram = '@gutmalina';
 
   useEffect(() => {
-    return {
+    setStack({
       code: [Javascript, TypeScript],
       frameworks: [React, Redux],
       tools: [API, Websocket, Node.js, Express.js, MongoDB, Mongoose, Webpack, Eslint],
       architecture: [ООП, БЭМ], 
       layout: [HTML5, CSS3, adaptive, PixelPerfect, Figma],
       team: [Git, GitHub]
-    }
+    });
   }, [education]);
 
   return (
     <body>
       <header>{`HI, MY NAME IS ${name}. I AM ${profession}`}/>
-      <main><section>{'YOU WILL FIND MY WORKS IN THE REPOSITORY'}/></main>
+      <main><section>{`MY Stack: ${stack}`}/></main>
       <footer><Link>{telegram}</Link>/>
     </body>
   )
