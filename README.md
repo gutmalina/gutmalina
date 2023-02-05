@@ -1,3 +1,4 @@
+```js
 import { useEffect } from 'react';
 import { Link } from 'react-router-dom';
 
@@ -50,6 +51,7 @@ function MarinaGutkevich ({frontend_developer, react_developer}) {
 };
 
 export default MarinaGutkevich;
+```
 
 <!-- <h2 align="center">Привет, будем знакомиться - я Марина
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="26"/></h2>
